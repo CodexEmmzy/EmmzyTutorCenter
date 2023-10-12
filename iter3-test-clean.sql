@@ -1,0 +1,1 @@
+psql -U $DATABASE_USER -d ezytutors --password < $PROJECT_ROOT/iter3-test-clean.sql 
